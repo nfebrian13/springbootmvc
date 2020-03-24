@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: springbootmvc
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: NANA
-Implementation-Vendor-Id: com.springbootmvc.nana
+Implementation-Vendor-Id: com.nana.springbootmvc
 Build-Jdk: 1.8.0_101
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
