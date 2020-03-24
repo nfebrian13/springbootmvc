@@ -38,10 +38,15 @@ public class ProductServiceImpl implements ProductService {
 			}
 			products.put(product.getId(), product);
 			return product;
-			
+
 		} else {
 			throw new RuntimeException("Product Can't Be Null");
 		}
+	}
+
+	@Override
+	public void deleteProduct(Integer id) {
+		products.remove(id);
 	}
 
 	private Integer getNextKey() {
