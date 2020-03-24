@@ -1,4 +1,4 @@
-package com.nana.springbootmvc;
+package com.springbootmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
